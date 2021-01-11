@@ -1,1 +1,1 @@
-# Code-Academy
+#Course Academy
