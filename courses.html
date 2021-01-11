@@ -98,26 +98,26 @@
                     $.getJSON("./CourseData.json",  function (data) { 
                     	console.log(data);
                         // var course = ''; 
-                        // console.log(course);
+                        console.log(course);
   
                         // // ITERATING THROUGH OBJECTS 
-                        // $.each(data, function (key, value) { 
+                        $.each(data, function (key, value) { 
   
-                        //     //CONSTRUCTION OF ROWS HAVING 
-                        //     // DATA FROM JSON OBJECT 
+                            //CONSTRUCTION OF ROWS HAVING 
+                            // DATA FROM JSON OBJECT 
                             
-                        //     course =course+ "Name:"+value.Name+"/n"; 
+                            course =course+ "Name:"+value.Name+"/n"; 
   
-                        //     course +=  value.Price+"/n" ; 
+                            course +=  value.Price+"/n" ; 
   
-                        //     course += value.Rating+"/n"  ; 
+                            course += value.Rating+"/n"  ; 
   
-                        //     course += value.Image+"/n"  ; 
+                            course += value.Image+"/n"  ; 
  
-                        // }); 
+                        }); 
                           
                         // //INSERTING ROWS INTO TABLE  
-                        // console.log(student); 
+                        console.log(course); 
                     }); 
                 }); 
             </script> 
