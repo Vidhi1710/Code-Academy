@@ -161,10 +161,7 @@
 	  							var m=value['Course provider'];
 	  							var cat=value.Category;
 	  							function something(){
-									
-								}
-	  							t+='<div class="col-lg-4 col-sm-6 col-xs-12"><div class="thumbnail"><img src="'
-								t+=i+'.jpeg" style="width: 100%;"><div style="padding:15px;"><a onclick="function(){var value1=n;
+									var value1=n;
 									var value2=p;
 									var value3=r;
 									var value4=e;
@@ -173,7 +170,10 @@
 									var v7=m;
 									var v8=cat;
 									var queryString = "?a=" + value1+"&b="+value2+"&c="+value3+"&d="+value4+"&e="+value5+"&f="+value6+"&g="+v7+"&h="+v8;
-									window.location.href = "courseDisplay.html" + queryString;}" id="chead"><h3><b>'
+									window.location.href = "courseDisplay.html" + queryString;
+								}
+	  							t+='<div class="col-lg-4 col-sm-6 col-xs-12"><div class="thumbnail"><img src="'
+								t+=i+'.jpeg" style="width: 100%;"><div style="padding:15px;"><a onclick="something()" id="chead"><h3><b>'
 								t+=n+'</b></h3></a><p style="color: #fe4a55;font-size: 16px;">'
 								t+=m+'</p><p style="text-transform: uppercase;color: #bcbcbc;">'
 								t+=cat+'</p><p style="margin-bottom: 0px;"><b style="font-size: 20px;">Rs. '
