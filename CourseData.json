@@ -26,7 +26,7 @@
     "Price": 360,
     "Rating": 4.7,
     "Enrollment": "20,141",
-    "Description": "Do your non-player characters lack drive and ambition? Are they slow, stupid and constantly banging their heads against the wall? Then this course is for you. Join Penny as she explains, demonstrates and assists you in creating your very own NPCs in Unity with C#. All you need is a sound knowledge of Unity, C# and the ability to add two numbers together.",
+    "Description": "Do your non-player characters lack drive and ambition? Are they slow, stupid and constantly banging their heads against the wall? Then this course is for you. Join Penny as she explains, demonstrates and assists you in creating your very own NPCs in Unity with C-Sharp. All you need is a sound knowledge of Unity, C-Sharp and the ability to add two numbers together.",
     "Image": "dev3",
     "Discount": "72%(Original:1000)",
     "Course provider": "Penny de Byl",
@@ -169,7 +169,7 @@
     "Price": 360,
     "Rating": 4.5,
     "Enrollment": "387,825",
-    "Description": "This course is taught by an award winning MBA professor with significant real world experience working at Goldman Sachs as well as in the venture capital, hedge fund and consulting industries (he has founded several companies and sits on several boards). Many business concepts are simply common sense. This course will focus on business concepts that you need to know that might not be common sense. This course makes the general business, accounting and finance process very easy to understand! The professor of this course is also the author of \"101 Crucial Lessons They Don't Teach You in Business School,\" which Forbes magazine recently called \"1 of 6 books that all entrepreneurs need to read right now.",
+    "Description": "This course is taught by an award winning MBA professor with significant real world experience working at Goldman Sachs as well as in the venture capital, hedge fund and consulting industries (he has founded several companies and sits on several boards). Many business concepts are simply common sense. This course will focus on business concepts that you need to know that might not be common sense. This course makes the general business, accounting and finance process very easy to understand! The professor of this course is also the author of 101 Crucial Lessons They Don't Teach You in Business School, which Forbes magazine recently called 1 of 6 books that all entrepreneurs need to read right now.",
     "Image": "cor1",
     "Discount": "96%(Original:8640)",
     "Course provider": "Chris Haroun",
@@ -264,7 +264,7 @@
     "Category": "Music"
   },
   {
-    "Name": "SINGING SIMPLIFIED #1: The Fast-Track to Singing Like a Pro",
+    "Name": "SINGING SIMPLIFIED @1: The Fast-Track to Singing Like a Pro",
     "Price": 360,
     "Rating": 4.6,
     "Enrollment": "21,273",
